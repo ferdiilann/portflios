@@ -8,19 +8,16 @@ Welcome to my portfolio repository! Here, you can find various projects showcasi
 - Insurance quote calculation logic
 - Admin panel for viewing issued quotes
 
-### 2. [TwentyOne Debugging Exercise](https://github.com/ferdiilann/TwentyOne-Debugging-Exercise)
-- Step-by-step debugging exercise in C#
-- Understanding game logic through breakpoints
 
-### 3. [Entity Framework Code-First](https://github.com/ferdiilann/EntityFramework-CodeFirst)
+### 2. [Entity Framework Code-First](https://github.com/ferdiilann/EntityFramework-CodeFirst)
 - Code-First database creation
 - Simple Student database implementation
 
-### 4. [Employee Operator Overloading](https://github.com/ferdiilann/Employee-OperatorOverloading)
+### 3. [Employee Operator Overloading](https://github.com/ferdiilann/Employee-OperatorOverloading)
 - Overloaded `==` and `!=` operators
 - Employee object comparison using Id property
 
-### 5. [Employee Polymorphism](https://github.com/ferdiilann/Employee-Polymorphism)
+### 4. [Employee Polymorphism](https://github.com/ferdiilann/Employee-Polymorphism)
 - Implemented interface-based polymorphism
 - `IQuittable` interface and `Quit` method demonstration
 
