@@ -21,7 +21,7 @@ Welcome to my portfolio repository! Here, you can find various projects showcasi
 - Implemented interface-based polymorphism
 - `IQuittable` interface and `Quit` method demonstration
 
-### 4. [Method Class Assignment Submission](https://github.com/ferdiilann/Method-Class-Assignment-Submission)
+### 5. [Method Class Assignment Submission](https://github.com/ferdiilann/Method-Class-Assignment-Submission)
   
 
 ## 🔗 Contact
